@@ -3,7 +3,8 @@ from model.bin_class_model import Model
 
 def main():
     model = Model()
-    model.preceptron()
+    model.knn()
+    model.submission()
     pass
 
 
