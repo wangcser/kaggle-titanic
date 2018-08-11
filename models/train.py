@@ -1,4 +1,4 @@
-from model.bin_class_model import Model
+from models.bin_class_model import Model
 
 
 def main():
